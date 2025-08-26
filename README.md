@@ -10,13 +10,16 @@ DISM /online /Set-Edition:ServerStandard /ProductKey:N69G4-B89J2-4G8F4-WWYCC-J46
 
 ## Cómo activar 
 slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+<br>
 slmgr /skms [servidor]:[puerto]
+<br>
 slmgr /ato
+<br>
 slmgr /dlv
 
 ## Clave de licencia
-Estándar VDYBN-27WPP-V4HQT-9VMD4-VMK7H de Windows Server 2022
-Centro de datos de Windows Server 2022 WX4NM-KYWYW-QJJR4-XV3QB-6VM33
+Estándar VDYBN-27WPP-V4HQT-9VMD4-VMK7H de Windows Server 2022 <br>
+Centro de datos de Windows Server 2022 WX4NM-KYWYW-QJJR4-XV3QB-6VM33 <br>
 
 Estándar N69G4-B89J2-4G8F4-WWYCC-J464C de Windows Server 2019
 Centro de datos de Windows Server 2019 WMDGN-G9PQG-XVVXX-R3X43-63DFG
