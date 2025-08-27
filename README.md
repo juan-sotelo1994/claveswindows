@@ -2,6 +2,11 @@
 claves de activacion 
 
 
+aterrizar la version 
+
+DISM /online /Get-targetEdicions <br>
+DISM /online /Set-Edit:ServerDatacenter /ProductKey: WMDGN-G9PQG-XVVXX-R3X43-63DFG /AcceptEula
+
 ## Encuentre ediciones de destino disponibles
 DISM.exe /En línea /Get-TargetEditions
 
