@@ -3,6 +3,12 @@ claves de activacion
 
 
 aterrizar la version 
+DISM /online /Get-TargetEditions   <br>
+
+DISM /online /Set-Edition:ServerStandard /ProductKey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX /AcceptEula
+
+
+otra verion
 
 DISM /online /Get-targetEdicions <br>
 DISM /online /Set-Edit:ServerDatacenter /ProductKey: WMDGN-G9PQG-XVVXX-R3X43-63DFG /AcceptEula
