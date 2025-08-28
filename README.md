@@ -11,7 +11,7 @@ DISM /online /Set-Edition:ServerStandard /ProductKey:XXXXX-XXXXX-XXXXX-XXXXX-XXX
 otra verion
 
 DISM /online /Get-targetEdicions <br>
-DISM /online /Set-Edit:ServerDatacenter /ProductKey: WMDGN-G9PQG-XVVXX-R3X43-63DFG /AcceptEula
+DISM /online /Set-Edition:ServerDatacenter /ProductKey:WMDGN-G9PQG-XVVXX-R3X43-63DFG /AcceptEula
 
 ## Encuentre ediciones de destino disponibles
 DISM.exe /En línea /Get-TargetEditions
